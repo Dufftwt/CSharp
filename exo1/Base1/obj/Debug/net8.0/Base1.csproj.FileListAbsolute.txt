@@ -1,0 +1,15 @@
+C:\Users\dilan\Desktop\IFC\Philippe Kurz - SLAM DEV\CSharp\exo1\Base1\bin\Debug\net8.0\Base1.exe
+C:\Users\dilan\Desktop\IFC\Philippe Kurz - SLAM DEV\CSharp\exo1\Base1\bin\Debug\net8.0\Base1.deps.json
+C:\Users\dilan\Desktop\IFC\Philippe Kurz - SLAM DEV\CSharp\exo1\Base1\bin\Debug\net8.0\Base1.runtimeconfig.json
+C:\Users\dilan\Desktop\IFC\Philippe Kurz - SLAM DEV\CSharp\exo1\Base1\bin\Debug\net8.0\Base1.dll
+C:\Users\dilan\Desktop\IFC\Philippe Kurz - SLAM DEV\CSharp\exo1\Base1\bin\Debug\net8.0\Base1.pdb
+C:\Users\dilan\Desktop\IFC\Philippe Kurz - SLAM DEV\CSharp\exo1\Base1\obj\Debug\net8.0\Base1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dilan\Desktop\IFC\Philippe Kurz - SLAM DEV\CSharp\exo1\Base1\obj\Debug\net8.0\Base1.AssemblyInfoInputs.cache
+C:\Users\dilan\Desktop\IFC\Philippe Kurz - SLAM DEV\CSharp\exo1\Base1\obj\Debug\net8.0\Base1.AssemblyInfo.cs
+C:\Users\dilan\Desktop\IFC\Philippe Kurz - SLAM DEV\CSharp\exo1\Base1\obj\Debug\net8.0\Base1.csproj.CoreCompileInputs.cache
+C:\Users\dilan\Desktop\IFC\Philippe Kurz - SLAM DEV\CSharp\exo1\Base1\obj\Debug\net8.0\Base1.sourcelink.json
+C:\Users\dilan\Desktop\IFC\Philippe Kurz - SLAM DEV\CSharp\exo1\Base1\obj\Debug\net8.0\Base1.dll
+C:\Users\dilan\Desktop\IFC\Philippe Kurz - SLAM DEV\CSharp\exo1\Base1\obj\Debug\net8.0\refint\Base1.dll
+C:\Users\dilan\Desktop\IFC\Philippe Kurz - SLAM DEV\CSharp\exo1\Base1\obj\Debug\net8.0\Base1.pdb
+C:\Users\dilan\Desktop\IFC\Philippe Kurz - SLAM DEV\CSharp\exo1\Base1\obj\Debug\net8.0\Base1.genruntimeconfig.cache
+C:\Users\dilan\Desktop\IFC\Philippe Kurz - SLAM DEV\CSharp\exo1\Base1\obj\Debug\net8.0\ref\Base1.dll
