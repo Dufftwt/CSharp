@@ -1,0 +1,15 @@
+C:\Users\dilan\Desktop\IFC\Philippe Kurz - SLAM DEV\CSharp\exo2\Second_deg\bin\Debug\net8.0\Second_deg.exe
+C:\Users\dilan\Desktop\IFC\Philippe Kurz - SLAM DEV\CSharp\exo2\Second_deg\bin\Debug\net8.0\Second_deg.deps.json
+C:\Users\dilan\Desktop\IFC\Philippe Kurz - SLAM DEV\CSharp\exo2\Second_deg\bin\Debug\net8.0\Second_deg.runtimeconfig.json
+C:\Users\dilan\Desktop\IFC\Philippe Kurz - SLAM DEV\CSharp\exo2\Second_deg\bin\Debug\net8.0\Second_deg.dll
+C:\Users\dilan\Desktop\IFC\Philippe Kurz - SLAM DEV\CSharp\exo2\Second_deg\bin\Debug\net8.0\Second_deg.pdb
+C:\Users\dilan\Desktop\IFC\Philippe Kurz - SLAM DEV\CSharp\exo2\Second_deg\obj\Debug\net8.0\Second_deg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dilan\Desktop\IFC\Philippe Kurz - SLAM DEV\CSharp\exo2\Second_deg\obj\Debug\net8.0\Second_deg.AssemblyInfoInputs.cache
+C:\Users\dilan\Desktop\IFC\Philippe Kurz - SLAM DEV\CSharp\exo2\Second_deg\obj\Debug\net8.0\Second_deg.AssemblyInfo.cs
+C:\Users\dilan\Desktop\IFC\Philippe Kurz - SLAM DEV\CSharp\exo2\Second_deg\obj\Debug\net8.0\Second_deg.csproj.CoreCompileInputs.cache
+C:\Users\dilan\Desktop\IFC\Philippe Kurz - SLAM DEV\CSharp\exo2\Second_deg\obj\Debug\net8.0\Second_deg.sourcelink.json
+C:\Users\dilan\Desktop\IFC\Philippe Kurz - SLAM DEV\CSharp\exo2\Second_deg\obj\Debug\net8.0\Second_deg.dll
+C:\Users\dilan\Desktop\IFC\Philippe Kurz - SLAM DEV\CSharp\exo2\Second_deg\obj\Debug\net8.0\refint\Second_deg.dll
+C:\Users\dilan\Desktop\IFC\Philippe Kurz - SLAM DEV\CSharp\exo2\Second_deg\obj\Debug\net8.0\Second_deg.pdb
+C:\Users\dilan\Desktop\IFC\Philippe Kurz - SLAM DEV\CSharp\exo2\Second_deg\obj\Debug\net8.0\Second_deg.genruntimeconfig.cache
+C:\Users\dilan\Desktop\IFC\Philippe Kurz - SLAM DEV\CSharp\exo2\Second_deg\obj\Debug\net8.0\ref\Second_deg.dll
