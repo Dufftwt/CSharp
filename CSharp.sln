@@ -1,0 +1,48 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "exo1", "exo1", "{C3262DE3-9DCA-4614-A381-DD774BDB80FA}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Base1", "exo1\Base1\Base1.csproj", "{5C0906FB-E352-4109-9FC6-8B557DFB0115}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "exo2", "exo2", "{35E44C20-0492-492D-8E0A-4E9321C626F2}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Second_deg", "exo2\Second_deg\Second_deg.csproj", "{AC46F7A1-310A-47FE-8266-9C2B5AC55030}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "exo3", "exo3", "{CB73AED2-1D02-4B61-9639-F9E633B52129}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LectureEcriture", "exo3\LectureEcriture\LectureEcriture.csproj", "{03C5F21B-20CD-4B0D-A5F2-AD4B94F06438}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5C0906FB-E352-4109-9FC6-8B557DFB0115}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C0906FB-E352-4109-9FC6-8B557DFB0115}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C0906FB-E352-4109-9FC6-8B557DFB0115}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C0906FB-E352-4109-9FC6-8B557DFB0115}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC46F7A1-310A-47FE-8266-9C2B5AC55030}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC46F7A1-310A-47FE-8266-9C2B5AC55030}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC46F7A1-310A-47FE-8266-9C2B5AC55030}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC46F7A1-310A-47FE-8266-9C2B5AC55030}.Release|Any CPU.Build.0 = Release|Any CPU
+		{03C5F21B-20CD-4B0D-A5F2-AD4B94F06438}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03C5F21B-20CD-4B0D-A5F2-AD4B94F06438}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03C5F21B-20CD-4B0D-A5F2-AD4B94F06438}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03C5F21B-20CD-4B0D-A5F2-AD4B94F06438}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{5C0906FB-E352-4109-9FC6-8B557DFB0115} = {C3262DE3-9DCA-4614-A381-DD774BDB80FA}
+		{AC46F7A1-310A-47FE-8266-9C2B5AC55030} = {35E44C20-0492-492D-8E0A-4E9321C626F2}
+		{03C5F21B-20CD-4B0D-A5F2-AD4B94F06438} = {CB73AED2-1D02-4B61-9639-F9E633B52129}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E28F2AEF-A248-4670-A319-D6F769B6AFF3}
+	EndGlobalSection
+EndGlobal
