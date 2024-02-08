@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Second_deg")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7f6a33c1ad9812e5fd0975b37612e1484ed067b7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+76557291219f4555f65c06fea4a1752e84286c68")]
 [assembly: System.Reflection.AssemblyProductAttribute("Second_deg")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Second_deg")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
