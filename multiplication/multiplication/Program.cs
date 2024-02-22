@@ -5,7 +5,7 @@ if (!int.TryParse(Console.ReadLine(), out int number))
 		return;
 }
 
-for (int i = 1; i <= 11; i++)
+for (int i = 1; i < 11; i++)
 {
 		Console.WriteLine(number + " * " + i + " = " + number * i);
 }
