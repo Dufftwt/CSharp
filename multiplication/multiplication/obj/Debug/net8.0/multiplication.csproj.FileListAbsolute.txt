@@ -1,0 +1,15 @@
+C:\Users\dilan\Desktop\Desktop\IFC\Philippe Kurz - SLAM DEV\CSharp\multiplication\multiplication\bin\Debug\net8.0\multiplication.exe
+C:\Users\dilan\Desktop\Desktop\IFC\Philippe Kurz - SLAM DEV\CSharp\multiplication\multiplication\bin\Debug\net8.0\multiplication.deps.json
+C:\Users\dilan\Desktop\Desktop\IFC\Philippe Kurz - SLAM DEV\CSharp\multiplication\multiplication\bin\Debug\net8.0\multiplication.runtimeconfig.json
+C:\Users\dilan\Desktop\Desktop\IFC\Philippe Kurz - SLAM DEV\CSharp\multiplication\multiplication\bin\Debug\net8.0\multiplication.dll
+C:\Users\dilan\Desktop\Desktop\IFC\Philippe Kurz - SLAM DEV\CSharp\multiplication\multiplication\bin\Debug\net8.0\multiplication.pdb
+C:\Users\dilan\Desktop\Desktop\IFC\Philippe Kurz - SLAM DEV\CSharp\multiplication\multiplication\obj\Debug\net8.0\multiplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dilan\Desktop\Desktop\IFC\Philippe Kurz - SLAM DEV\CSharp\multiplication\multiplication\obj\Debug\net8.0\multiplication.AssemblyInfoInputs.cache
+C:\Users\dilan\Desktop\Desktop\IFC\Philippe Kurz - SLAM DEV\CSharp\multiplication\multiplication\obj\Debug\net8.0\multiplication.AssemblyInfo.cs
+C:\Users\dilan\Desktop\Desktop\IFC\Philippe Kurz - SLAM DEV\CSharp\multiplication\multiplication\obj\Debug\net8.0\multiplication.csproj.CoreCompileInputs.cache
+C:\Users\dilan\Desktop\Desktop\IFC\Philippe Kurz - SLAM DEV\CSharp\multiplication\multiplication\obj\Debug\net8.0\multiplication.sourcelink.json
+C:\Users\dilan\Desktop\Desktop\IFC\Philippe Kurz - SLAM DEV\CSharp\multiplication\multiplication\obj\Debug\net8.0\multiplication.dll
+C:\Users\dilan\Desktop\Desktop\IFC\Philippe Kurz - SLAM DEV\CSharp\multiplication\multiplication\obj\Debug\net8.0\refint\multiplication.dll
+C:\Users\dilan\Desktop\Desktop\IFC\Philippe Kurz - SLAM DEV\CSharp\multiplication\multiplication\obj\Debug\net8.0\multiplication.pdb
+C:\Users\dilan\Desktop\Desktop\IFC\Philippe Kurz - SLAM DEV\CSharp\multiplication\multiplication\obj\Debug\net8.0\multiplication.genruntimeconfig.cache
+C:\Users\dilan\Desktop\Desktop\IFC\Philippe Kurz - SLAM DEV\CSharp\multiplication\multiplication\obj\Debug\net8.0\ref\multiplication.dll
